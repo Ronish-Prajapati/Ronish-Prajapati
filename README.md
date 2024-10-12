@@ -6,7 +6,7 @@ About Me
  My Skills
 - Frontend Development: HTML, CSS, JavaScript, React.js
 - Backend Development: Node.js, Express.js, Laravel and Wordpress
-- Database: MongoDB
+- Database: MongoDB, MySQL
 - Version Control: Git
 
 How to Reach Me
