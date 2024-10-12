@@ -1,11 +1,11 @@
 About Me
 - 👋 Hi, I’m @Ronish-Prajapati
-- 👀 A passionate beginner MERN Stack developer eager to learn and grow in the world of web development.
-- 🌱 I’m currently learning Typescript
+- 👀 A entry level Laravel, Wordpress and Nodejs developer eager to learn and grow in the world of web development.
+- 🌱 I’m currently learning Vuejs.
   
  My Skills
 - Frontend Development: HTML, CSS, JavaScript, React.js
-- Backend Development: Node.js, Express.js
+- Backend Development: Node.js, Express.js, Laravel and Wordpress
 - Database: MongoDB
 - Version Control: Git
 
